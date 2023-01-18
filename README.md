@@ -1,4 +1,4 @@
-![https://github.com/zwg3/hexlet-ci-app/actions/workflows/hello-test.yml/badge.svg](https://github.com/zwg3/hexlet-ci-app/actions/workflows/hello-test.yml/badge.svg)
+![https://github.com/zwg3/hexlet-ci-app/actions/workflows/workflow-test.yml/badge.svg](https://github.com/zwg3/hexlet-ci-app/actions/workflows/workflow-test.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
